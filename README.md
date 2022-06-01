@@ -23,3 +23,7 @@ EY UniVRsity helps learners expand their domains of expertise, achieve their pro
 
 What's next for EY UniVRsity
 We see EY UniVRsity pushing the boundaries of virtual education by introducing tokenized certifications and leveraging digital spaces. We hope to invite other companies into our space, an ever-growing virtual learning hub for the world to connect, grow, and achieve their dreams.
+
+TRY ME:
+https://devpost.com/software/ey-univrsity
+https://builder.decentraland.org/view/0bce3031-a034-4d53-ab13-b881d738720a?position=2%2C-1&realm=localhost-stub
