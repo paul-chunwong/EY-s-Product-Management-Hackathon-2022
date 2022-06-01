@@ -26,4 +26,5 @@ We see EY UniVRsity pushing the boundaries of virtual education by introducing t
 
 TRY ME:
 https://devpost.com/software/ey-univrsity
+
 https://builder.decentraland.org/view/0bce3031-a034-4d53-ab13-b881d738720a?position=2%2C-1&realm=localhost-stub
